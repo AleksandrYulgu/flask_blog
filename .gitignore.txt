@@ -1,0 +1,8 @@
+	.idea/
+	READMY.md
+	__pycache__/
+	database.db
+	init_db.py
+	requirements.txt
+	static/
+	templates/
